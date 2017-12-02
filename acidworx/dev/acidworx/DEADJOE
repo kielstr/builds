@@ -1,0 +1,72 @@
+
+*** These modified files were found in JOE when it aborted on Sat Nov 18 11:42:56 2017
+*** JOE was aborted by UNIX signal 15
+
+*** File '(Unnamed)'
+sub path
+click
+mouse
+
+*** File '(Unnamed)'
+Dockerfile
+Dockerfile
+DO
+index.tt
+index.tt
+index.tt
+docker-compose.yml
+docker-compose.yml
+/home/kiel/.jpicorc
+/home/kiel/.jpicorc
+docker-compose.yml
+docker-compose.yml
+Dockerfile
+Dockerfile
+Dockerfile
+Dockerfile
+Dockerfile
+Dockerfile
+Dockerfile
+
+*** These modified files were found in JOE when it aborted on Sat Nov 18 13:11:57 2017
+*** JOE was aborted by UNIX signal 15
+
+*** File '(Unnamed)'
+line
+number
+line number
+help
+exit
+qui
+Z
+help
+help
+current
+
+*** File '(Unnamed)'
+docker-compose.yml
+docker-compose.yml
+docker-compose.yml
+docker-compose.yml
+docker-compose.yml
+docker-compose.yml
+docker-compose.yml
+docker-compose.yml
+docker-compose.yml
+docker-compose.yml
+docker-compose.yml
+docker-compose.yml
+Dockerfile
+docker-compose.yml
+Dockerfile
+Dockerfile
+Dockerfile
+Dockerfile
+Dockerfile
+Dockerfile
+
+*** File '* Startup Log *'
+Processing '/Users/kiel/.joerc'...
+Processing '/usr/local/Cellar/joe/4.3/etc/joe/ftyperc'...
+Finished processing /usr/local/Cellar/joe/4.3/etc/joe/ftyperc
+Finished processing /Users/kiel/.joerc

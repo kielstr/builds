@@ -1,0 +1,8 @@
+version: "2"
+services:
+    acidworx:
+        build: .
+        volumes:
+            - /Users/kiel/swarm/acidworx/AW1/dev/AcidWorx:/acidworx
+        ports:
+            - 8081:8081
